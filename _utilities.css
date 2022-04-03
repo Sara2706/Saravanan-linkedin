@@ -1,0 +1,27 @@
+/* Universal selector */
+
+*{
+    background-color: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/* background colour */
+
+body{
+    background-color: rgb(194, 194, 194);
+}
+
+/* content start here */
+
+.global-container{
+    width: 1128px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* responsive starts here */
+
